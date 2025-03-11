@@ -1,0 +1,58 @@
+
+Job Title: Senior AI Engineer
+
+Company: Innovative AI Solutions Inc.
+
+Location: San Francisco, CA (Hybrid – 3 days in-office, 2 days remote)
+Salary: $130,000 – $160,000 per year (base) + performance bonuses and stock options
+
+About Us:
+Innovative AI Solutions Inc. is a leading technology firm specializing in next-generation artificial intelligence applications for healthcare, finance, and enterprise solutions. Our mission is to drive digital transformation through cutting-edge research, innovative products, and a collaborative work culture. With a diverse team of engineers, data scientists, and industry experts, we foster an environment where creativity, professional growth, and impactful innovation thrive.
+
+Job Summary:
+We are seeking a highly motivated Senior AI Engineer to design, develop, and deploy state-of-the-art AI models that power our core products. In this role, you will work closely with cross-functional teams—including product management, data engineering, and UX design—to translate complex business challenges into scalable AI solutions. You will also mentor junior team members and contribute to our strategic research initiatives.
+
+Key Responsibilities:
+- Research & Development:
+  - Lead the design and implementation of advanced machine learning and deep learning models for natural language processing, computer vision, or predictive analytics.
+  - Continuously evaluate and integrate emerging AI methodologies to enhance product performance and efficiency.
+- Model Deployment & Optimization:
+  - Develop prototypes and production-ready models using frameworks such as TensorFlow, PyTorch, and scikit-learn.
+  - Optimize AI models for performance, scalability, and cost-effectiveness, and deploy them using cloud platforms like AWS, GCP, or Azure.
+- Data Collaboration & Engineering:
+  - Collaborate with data engineering teams to source, clean, and preprocess large-scale datasets.
+  - Implement feature engineering and data augmentation techniques to improve model robustness.
+- Cross-Functional Collaboration:
+  - Work closely with product managers and software engineers to integrate AI functionalities into the company’s suite of products.
+  - Communicate technical concepts and research findings effectively to both technical and non-technical stakeholders.
+- Mentorship & Leadership:
+  - Mentor junior engineers and lead code reviews to maintain high-quality software standards.
+  - Contribute to setting technical standards and best practices within the AI team.
+
+Required Qualifications:
+- Bachelor’s or Master’s degree in Computer Science, Artificial Intelligence, Machine Learning, Data Science, or a related field.
+- 5+ years of hands-on experience in developing machine learning and deep learning models.
+- Proficiency in Python and familiarity with AI/ML libraries such as TensorFlow, PyTorch, Keras, and scikit-learn.
+- Strong knowledge of natural language processing (NLP) frameworks (e.g., spaCy, NLTK) and/or computer vision libraries (e.g., OpenCV).
+- Experience with cloud computing platforms (AWS, GCP, or Azure) and containerization tools like Docker and Kubernetes.
+- Excellent problem-solving skills and the ability to work in a fast-paced, collaborative environment.
+
+Preferred Qualifications:
+- Experience deploying AI models in production environments.
+- Familiarity with big data technologies (e.g., Hadoop, Spark) and building end-to-end data pipelines.
+- Proven track record of mentoring and leading technical teams.
+- Strong communication skills with the ability to explain complex concepts to non-technical audiences.
+- Experience in ethical AI development and a deep understanding of data privacy and security practices.
+
+Benefits & Perks:
+- Competitive base salary with performance-based bonuses and equity options.
+- Comprehensive health, dental, and vision insurance.
+- 401(k) plan with company match.
+- Flexible work schedule with hybrid/remote options.
+- Generous paid time off, including vacation, sick leave, and holidays.
+- Professional development opportunities, including workshops, conferences, and training programs.
+- Onsite amenities such as free lunches, gym memberships, and wellness programs.
+
+How to Apply:
+Interested candidates should submit their resume, cover letter, and a portfolio or GitHub link showcasing relevant projects to careers@innovativeai.com. Please include “Senior AI Engineer Application – [Your Name]” in the subject line.
+
