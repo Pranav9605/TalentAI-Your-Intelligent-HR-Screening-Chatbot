@@ -3,6 +3,9 @@
 import streamlit as st
 import requests
 
+# 🔹 Hardcoded backend URL (ngrok tunnel)
+BACKEND_URL = "https://e4a0b34d3040.ngrok-free.app"
+
 st.set_page_config(page_title="HR Chatbot", layout="wide")
 st.title("HR Chatbot with JD Upload")
 
@@ -11,7 +14,7 @@ st.sidebar.header("Upload Job Description")
 uploaded_file = st.sidebar.file_uploader("Choose a JD file (TXT format)", type=["txt"])
 if uploaded_file is not None:
     try:
-        response = requests.post("http://localhost:8000/upload_jd", files={"file": uploaded_file})
+        response = requests.post(f"{BACKEND_URL}/upload_jd", files={"file": uploaded_file})
         if response.status_code == 200:
             st.sidebar.success("Job description uploaded successfully!")
         else:
@@ -25,9 +28,8 @@ user_input = st.text_input("Enter your HR-related question:")
 if st.button("Send") and user_input:
     st.session_state.setdefault("chat_history", []).append(("You", user_input))
     payload = {"message": user_input}
-    backend_url = "http://localhost:8000/chat"  # Update if necessary
     try:
-        response = requests.post(backend_url, json=payload)
+        response = requests.post(f"{BACKEND_URL}/chat", json=payload)
         if response.status_code == 200:
             data = response.json()
             st.write("**Response Breakdown:**")
